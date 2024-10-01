@@ -88,7 +88,7 @@ int main(){
 			{
 				printf("place already filled \n");
 			}
-			else if(k>2 || l<2)
+			else if(k>2 || l>2)
 			{
 				printf("ENTER CORRECT COORDINATE\n");
 			}		
